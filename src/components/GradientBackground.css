@@ -1,0 +1,5 @@
+.gradient-background {
+    background: linear-gradient(to bottom right, #FFA500, #FF6347); /* Gradient colors */
+    overflow-x: hidden; /* Prevents horizontal overflow */
+  }
+  

@@ -1,0 +1,13 @@
+.navbar-custom {
+    background: linear-gradient(to bottom right, #FFA500, #FF6347); /* Gradient colors */
+  }
+  
+  .navbar-custom .navbar-brand,
+  .navbar-custom .navbar-nav .nav-link {
+    color: white; /* Text color */
+  }
+  
+  .navbar-custom .navbar-toggler-icon {
+    background-color: white; /* Color of toggler icon */
+  }
+  

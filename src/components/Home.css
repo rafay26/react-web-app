@@ -1,0 +1,23 @@
+/* Home.css */
+
+.home-container {
+    min-height: 100vh; /* Ensure the container takes at least the full viewport height */
+    padding: 0; /* Remove any padding that might add space */
+    margin: 0; /* Remove any margin that might add space */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .gradient-bg {
+    background: linear-gradient(to bottom right, #FFA500, #FF6347); /* Adjust colors as needed */
+    width: 100%; /* Ensure the gradient covers the entire width */
+    height: 100%; /* Ensure the gradient covers the entire height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white; /* Set text color to white for better visibility */
+  }
+  
